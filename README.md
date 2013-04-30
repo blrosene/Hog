@@ -1,4 +1,0 @@
-Hog
-===
-
-Showing even numbers
